@@ -17,3 +17,6 @@ https://www.cfatoronto.ca/insights-and-updates/the-analyst-registration?redirect
 
 Exploring Python's Pandas Library
 https://www.cfatoronto.ca/insights-and-updates/the-analyst/september-2024/article/september-2024/exploring-python's-pandas-library
+
+Visualizing Climate Change With Python
+https://www.cfatoronto.ca/insights-and-updates/the-analyst/spring2025/article/spring2025/visualizing-climate-change-with-python
